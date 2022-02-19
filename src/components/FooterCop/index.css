@@ -1,0 +1,36 @@
+.footer-copyright {
+	background:#1a1a2a;
+	padding: 30px 0 35px;
+}
+.foot-copyright{
+	color:#8b8b8b;
+	font-size:16px;
+	font-family: 'Poppins', sans-serif;
+}
+/* foot-menu  */
+.foot-menu ul li {
+    float: left;
+    padding-left:15px;
+    text-transform: capitalize;
+}
+
+.foot-menu li a{
+	color:#8790af;
+    background-color: transparent;
+    font-family: 'Poppins', sans-serif;
+	display: inline-block;
+	-webkit-transition:all 0.2s linear;
+	-moz-transition:all 0.2s linear;
+	-ms-transition:all 0.2s linear;
+	-o-transition:all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.foot-menu   li a,
+.foot-menu   li a:hover,
+.foot-menu   li a:focus{
+	
+}
+.foot-menu  li {
+	position:relative;
+	padding-left:42px;
+}
